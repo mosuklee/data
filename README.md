@@ -2,8 +2,9 @@
 본 Repositories는 딥러닝을 Study하기 위한 데이터 저장소 입니다.
 데이터는 다음과 같이 저장되어 있습니다.
 
-1. 보스턴 집값 예측하기 (Bonton.csv)
 ---
+1. 보스턴 집값 예측하기 (Bonton.csv)
+  
 **Future 구성**  
   
 CRIM: 지역별 범죄 발생률  
@@ -21,24 +22,28 @@ B: 지역의 흑인 거주 비율
 LSTAT: 하위 계층의 비율  
 MEDV: 본인 소유의 주택 가격(중앙값) - 종속변수 (위의 건 독립변수)  
   
+---  
 2. 폐암 수술환자의 생존 예측하기 (ThoraricSurgery3.csv)
----
-**Future 구성**  
   
-
+**Future 구성**  
+    
+---
 3. 아이리스 품종 예측하기 (iris3.csv)
----
+  
 **Future 구성** 
-
+  
+---
 4. 초음파 광물 예측하기 (sonar3.csv)
----
+  
 **Future 구성** 
-
+  
+---
 5. 와인의 종류 예측하기 (wine.csv)
----
+  
 **Future 구성** 
-
+  
+---
 6. 아이오와주 집값 예측하기 (house_train.csv, house_test.csv)
----
+  
 **Future 구성** 
-
+  
